@@ -11,6 +11,7 @@ Deployed Site : https://sododa.github.io/Edupath/
 Final Project Blog Article: EduCity: Empowering Education
 
 **Author**
+
 Sophie Ododa
 
 Simon Mwangi
