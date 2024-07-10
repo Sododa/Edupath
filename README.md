@@ -4,6 +4,8 @@
 EduCity is an educational platform designed to simplify access to university information and streamline the discovery of academic programs. Inspired by the complexity of navigating university websites, EduCity aims to provide a user-friendly interface that aggregates educational resources and enhances the student experience.
 
 **Project** 🔗 
+![EduCity Screenshot](Screenshot 2024-07-10 172333.png)
+
 Deployed Site : https://sododa.github.io/Edupath/
 
 Final Project Blog Article: EduCity: Empowering Education
