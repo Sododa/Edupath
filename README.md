@@ -20,6 +20,8 @@ Simon Mwangi
 
 LinkedIn: https://www.linkedin.com/in/sophie-akoth-248a08194/
 
+https://www.linkedin.com/in/simon-mwangi-3393854b/
+
 **Installation**
 To run EduCity locally, follow these steps:
 
